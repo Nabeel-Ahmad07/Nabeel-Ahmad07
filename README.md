@@ -24,7 +24,7 @@ A skilled full-stack developer passionate about building complete web solutions 
 
 ## Featured Projects
 
-### [Blognitive](https://blognitive.com)  
+### Blognitive | [blognitive.com](https://blognitive.com)  
 **Stack:** Bootstrap, Django, PostgreSQL  
 - Dynamic blog creation with rich-text editing via CKEditor & image uploads via Cloudinary  
 - Admin dashboard for managing blogs & user content  
