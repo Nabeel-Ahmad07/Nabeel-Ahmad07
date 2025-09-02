@@ -22,6 +22,22 @@ A skilled full-stack developer passionate about building complete web solutions 
 
 ---
 
+## Experience  
+
+### Neutrawise  
+**Web Developer Intern** | *Aug 2025 – Present*  
+- Focused on backend development using Django & PostgreSQL  
+- Built and optimized scalable APIs for internal applications  
+- Collaborated with the team to improve system performance and maintain clean code  
+
+### Fiverr  
+**Freelance Web Developer** | *Sep 2023 – Present*  
+- Delivered full stack web solutions for international clients  
+- Specialized in Django backend development and responsive frontend design  
+- Ensured client satisfaction with timely delivery and clear communication
+
+---
+
 ## Featured Projects
 
 ### Blognitive | [blognitive.com](https://blognitive.com)  
@@ -31,7 +47,6 @@ A skilled full-stack developer passionate about building complete web solutions 
 - Dedicated blogger profile page  
 - Fully responsive with SSR using Django templates  
 
----
 
 ### Dar-e-Umeed – Women Safety App  
 **Stack:** JavaScript, Bootstrap, Django  
@@ -39,7 +54,6 @@ A skilled full-stack developer passionate about building complete web solutions 
 - Emergency resources (alerts, map locator)  
 - Real-time safety information access  
 
----
 
 ### MTJ Clone - Ecommerce Website
 **Stack:** JavaScript, Bootstrap, Django  
