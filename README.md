@@ -64,7 +64,7 @@ A skilled full-stack developer passionate about building complete web solutions 
 ---
 
 ## Education
-- **BS Computer Science** – COMSATS University Islamabad (Wah Campus) – *CGPA: 3.65 (2023–Present)*  
+- **BS Computer Science** – COMSATS University Islamabad – *CGPA: 3.65 (2023–Present)*  
 - **FSc (Pre-Engineering)** – Punjab Group of Colleges, Rawalpindi (2021–2023)
 
 ---
