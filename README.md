@@ -26,9 +26,9 @@ A skilled full-stack developer passionate about building complete web solutions 
 
 ### Neutrawise  
 **Web Developer Intern** | *Aug 2025 – Present*  
-- Focused on backend development using Django & PostgreSQL  
+- Focused on backend development using FastAPI and MongoDB
 - Built and optimized scalable APIs for internal applications  
-- Collaborated with the team to improve system performance and maintain clean code  
+- Collaborated with the Frontend and AI/ML Team  
 
 ### Fiverr  
 **Freelance Web Developer** | *Sep 2023 – Present*  
