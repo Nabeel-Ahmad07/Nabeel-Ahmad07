@@ -1,6 +1,6 @@
 # Hi, I'm Nabeel Ahmad  
 
-**`Full-Stack Web Developer | Django Enthusiast | Problem Solver`**
+**`Full-Stack Web Developer | CS Undergrad`**
 
 A skilled full-stack developer passionate about building complete web solutions from scratch; from responsive front-end designs to secure and scalable back-end systems. I enjoy solving complex problems, writing clean code, and delivering impactful projects.
 
@@ -8,13 +8,18 @@ A skilled full-stack developer passionate about building complete web solutions 
 
 ## Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-red?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
